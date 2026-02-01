@@ -3,7 +3,7 @@ name: Use Composite Action from Another Repo
 on:
   push:
     branches:
-      - "**"
+      - "*"
 
 jobs:
   greeting-job:
