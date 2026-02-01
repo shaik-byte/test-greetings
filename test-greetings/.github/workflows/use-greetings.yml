@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Use greeting composite actions
-        uses: shaik-byte/greeting-actions/greeting-actions/.github/actions/greetings@main
+        uses: shaik-byte/greeting-actions/.github/workflows/greetings@main
 
         
         
