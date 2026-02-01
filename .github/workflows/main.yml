@@ -11,6 +11,5 @@ jobs:
     steps:
       - name: Use greeting composite actions
         uses: shaik-byte/greeting-actions/.github/actions/greetings@main
-
         
         
